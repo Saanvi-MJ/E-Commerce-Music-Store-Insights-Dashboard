@@ -1,20 +1,16 @@
 # E-Commerce Music Store Insights Dashboard
 
-## 📊 Project Overview
+##📊Project Overview
 
-This repository contains a Power Bi dashboard of an E-commerce store to answer questions about the data. The insights of the dashboard can be found in the results.txt file.  This repository can be used as a starting point for anyone who wants to learn how to use Power Bi to analyze data.
-Analyzed E-commerce store data. Created an interactive dashboard using Power BI.
+This repository showcases an interactive Power BI dashboard developed to explore and analyze key business metrics of an E-Commerce music store. The dashboard provides valuable insights into customer preferences, sales trends, and product performance to aid in data-driven decision-making. This project serves as a great starting point for anyone interested in leveraging Power BI for data visualization and business intelligence.
 
-
-## Installation
+##⚙️Installation
 
 To run this project on your machine you need to install <a href="https://powerbi.microsoft.com/en-us/downloads/">Microsoft Power Bi</a>.
 
+##🛠️Tools
 
-
-## Tools
-
-* Microsoft Power BI
+* Microsoft Power BI - for data modeling, visualization, and report creation
 
 ## Credits
 
@@ -35,8 +31,6 @@ Throughout the development of this project, I have sought inspiration from a piv
 ## Conclusion
 
 The project was successful in answering the set of questions about an E-commerce Store's performance. The results of the project can be found in result.txt file.
-
-
 
 ## Questions Answered
 
